@@ -1,0 +1,10 @@
+* {
+    &:active,
+    :focus {
+        outline: none !important;  // remove outlines buttons and other elements when clicked or hovered
+    }
+}
+
+label {
+    margin-bottom: 0; // remove margins from label
+}
